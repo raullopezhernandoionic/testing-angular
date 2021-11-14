@@ -6,11 +6,13 @@ import { AppComponent } from './app.component';
 import { HttpClientModule } from '@angular/common/http';
 import { HttpClientTestingModule } from '@angular/common/http/testing';
 import { ComponentsBasicComponent } from './05-components-basic/components-basic/components-basic.component';
+import { DashboardHeroComponent } from './06-input-output/dashboard-hero/dashboard-hero.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    ComponentsBasicComponent
+    ComponentsBasicComponent,
+    DashboardHeroComponent
   ],
   imports: [
     BrowserModule,
