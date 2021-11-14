@@ -22,3 +22,12 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 [Test Unitarios - Services con HttpTestingModule](https://www.youtube.com/watch?v=aS3TLCiLwKs&list=PLFSFbc_5pthruNGpzD1Fo0R60zn5I38hZ&index=5)
 
+[Test Unitarios - Componente Basico](https://www.youtube.com/watch?v=WSVNnSaYdkM&list=PLFSFbc_5pthruNGpzD1Fo0R60zn5I38hZ&index=6)
+
+[Test Unitarios - Componente Basico](https://www.youtube.com/watch?v=WSVNnSaYdkM&list=PLFSFbc_5pthruNGpzD1Fo0R60zn5I38hZ&index=6)
+
+[Test Unitarios - Input Output](https://www.youtube.com/watch?v=bqS3Oe71Qtk&list=PLFSFbc_5pthruNGpzD1Fo0R60zn5I38hZ&index=7)
+
+[Test Unitarios - Componente con Dependencias](https://www.youtube.com/watch?v=GERqk2BEtwI&list=PLFSFbc_5pthruNGpzD1Fo0R60zn5I38hZ&index=8)
+
+
