@@ -7,7 +7,10 @@ import { HttpClient } from '@angular/common/http';
 export class UserService {
 
   public users = [] as any;
+  public isLoggedIn = true;
+  public user = { name: 'Test User'};
   public error = false;
+
 
   private url = "https://jsonplaceholder.typicode.com/users";
 
